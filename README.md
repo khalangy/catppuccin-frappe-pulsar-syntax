@@ -1,5 +1,7 @@
 # catppuccin-syntax theme
 
-A short description of your theme.
+A syntax theme inspired by Catppuccin Frappe colors from Catppuccin project.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+https://github.com/catppuccin/catppuccin
+
+![Preview](/catppuccin-frappe-pulsar.png)
